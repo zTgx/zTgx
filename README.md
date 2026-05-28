@@ -1,5 +1,7 @@
-I'm passionate about **Rust** and **AI**. 
+### Hi there 👋
 
-AI Compilers <> CUDA <> AI Agents
+I'm passionate about **Rust** and **AI**
 
-Contact Me: beautifularea#gmail.com
+**Interests:** AI Compilers · CUDA · AI Agents
+
+**Contact:** beautifularea [at] gmail [dot] com
