@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm passionate about **Rust** and **AI**
 
 **Interests:** AI Compilers · CUDA · AI Agents
