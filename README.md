@@ -2,6 +2,6 @@ Passionate about **Rust** and **AI**. Building performant systems at the interse
 
 ## Websites
 
-- **[幻图妙盒](https://huanbjt.cn)** - 换背景图
-- **[hellocuda.com](https://hellocuda.com)** - 中文CUDA学习站
+- **[PixMojo](https://pixmojo.app)** - Look your best, every time.
+- **[hellocuda.com](https://hellocuda.com)** - Learning CUDA.
 - **[vectorless.dev](https://vectorless.dev)** - Knowing by reasoning, not vectors.
