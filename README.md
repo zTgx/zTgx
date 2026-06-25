@@ -2,6 +2,6 @@ Passionate about **Rust** and **AI**. Building performant systems at the interse
 
 ## Websites
 
-- **[PixMojo.app](https://pixmojo.app)** - Look your best, every time.
+- **[PixMojo.app](https://pixmojo.app)** - Look your best, every moment.
 - **[hellocuda.com](https://hellocuda.com)** - Learning CUDA.
 - **[vectorless.dev](https://vectorless.dev)** - Knowing by reasoning, not vectors.
