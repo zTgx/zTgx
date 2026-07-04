@@ -2,6 +2,6 @@ Passionate about **Rust** and **AI**. Building performant systems at the interse
 
 ## Websites
 
-- **[PixMojo.app](https://pixmojo.app)** - Your moments, with Mojo.
-- **[hellocuda.com](https://hellocuda.com)** - CUDA community.
-- **[vectorless.dev](https://vectorless.dev)** - Knowing by reasoning, not vectors.
+- **[PixMojo](https://pixmojo.cn)** - Your moments, with Mojo.
+- **[hellocuda](https://hellocuda.com)** - CUDA community.
+- **[vectorless](https://vectorless.dev)** - Knowing by reasoning, not vectors.
